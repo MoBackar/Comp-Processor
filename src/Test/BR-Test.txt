@@ -1,0 +1,3 @@
+MOVI R5 2
+MOVI R6 3
+BR R5 R6
